@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ul.slick-dots {
+    color: white;
+    background-color: aquamarine!;
+    font-size: 12px;
+    background: blue;
+  }
+  .slick-dots li.slick-active button:before {
+    color: white!;
+    background-color: blue;
+  }
