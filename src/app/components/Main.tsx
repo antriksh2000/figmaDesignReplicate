@@ -23,6 +23,15 @@ const Main = () => {
           <img src="./filmReelBig.svg" alt="" className=" left-20 top-7  " />
         </div>
 
+        <div className="absolute top-32 right-60">
+          <img src="./videoCamera.svg" alt="" className=" left-20 top-7  " />
+        </div>
+
+        <div className="absolute -top-8 right-40">
+          <img src="./filmReelBig.svg" alt="" className=" left-20 top-7  " />
+        </div>
+
+
         <div className="absolute -top-8 right-40">
           <img src="./cameraRightTop.svg" alt="" className=" left-20 top-7  " />
         </div>
