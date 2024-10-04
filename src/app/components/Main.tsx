@@ -20,7 +20,7 @@ const Main = () => {
         </div>
 
         <div className="absolute top-32 right-60">
-          {/* <img src="./filmReelBig.svg" alt="" className=" left-20 top-7  " /> */}
+          <img src="./filmReelBig.svg" alt="" className=" left-20 top-7  " />
         </div>
 
         <div className="absolute -top-8 right-40">
