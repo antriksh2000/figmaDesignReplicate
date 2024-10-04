@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+live project link 
+
+https://figma-design-replicate.vercel.app/
+
 First, run the development server:
 
 ```bash
